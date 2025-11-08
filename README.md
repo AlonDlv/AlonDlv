@@ -6,8 +6,9 @@ I'm Alon Dolev a Computer Science student at **Holon Institute of Technology (HI
 
 ## Projects
 
--  [**AcademyLink**](https://github.com/AlonDlv/AcademyLink) – Campus accessibility and awareness project built for Academy Link HIT in collaboration with Link20  
 -  [**JumpScare**](https://github.com/AlonDlv/JumpScare) – Chrome extension that automatically warns of jumpscares on Netflix
+-  [**AcademyLink**](https://github.com/AlonDlv/AcademyLink) – Campus accessibility and awareness project built for **Academy Link HIT** in collaboration with **Link20**
+-  [**ShebaHub**](https://github.com/AlonDlv/ShebaHub) – A hub developed with **Sheba Hospital**, connecting students and interns with researchers for collaboration and innovation
 
 ---
 
